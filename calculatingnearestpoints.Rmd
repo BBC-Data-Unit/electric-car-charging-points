@@ -9,7 +9,7 @@ We have a dataset of over 7,000 locations. For each of those we want to find the
 
 This is not simple. Each location has a latitude and longitude and we are dealing with distances across a sphere.
 
-The solution is the [Haversine equation](). In R this can be calculated using the [`haversine` function](https://www.rdocumentation.org/packages/pracma/versions/1.9.9/topics/haversine) which is part of the `pracma` package (an alternative would be the [`distHaversine` function](https://www.rdocumentation.org/packages/geosphere/versions/1.5-5/topics/distHaversine) from the [geosphere package](https://www.rdocumentation.org/packages/geosphere/versions/1.5-5).
+The solution is the [Haversine equation](https://en.wikipedia.org/wiki/Haversine_formula). In R this can be calculated using the [`haversine` function](https://www.rdocumentation.org/packages/pracma/versions/1.9.9/topics/haversine) which is part of the `pracma` package (an alternative would be the [`distHaversine` function](https://www.rdocumentation.org/packages/geosphere/versions/1.5-5/topics/distHaversine) from the [geosphere package](https://www.rdocumentation.org/packages/geosphere/versions/1.5-5).
 
 ```{r}
 #Read in the data
