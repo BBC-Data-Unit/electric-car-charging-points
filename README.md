@@ -30,7 +30,14 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Swindon Advertiser: [Thousands of electric cars in Swindon - but only 16 public charging points](https://www.swindonadvertiser.co.uk/news/17552949.thousands-of-electric-cars-in-swindon-but-only-16-public-charging-points/) *5 April 2019*
 * Bristol Live: [Nationwide shortage of charge points threatens government targets for electric vehicles](https://www.bristolpost.co.uk/news/uk-world-news/nationwide-shortage-charge-points-threatens-2722521) *5 April 2019*
 * Cornish Stuff: [Electric Car Revolution – Cornwall leading the way](https://cornishstuff.com/2019/04/05/electric-car-revolution-cornwall-leading-the-charge/) *5 April 2019*
-
+* Nottinghamshire Live: [Thinking of buying an electric car? These are the best and worst places in Nottinghamshire to own one](https://www.nottinghampost.com/news/motoring/thinking-buying-electric-car-best-2715061) *5 April 2019*
+* Nottinghamshire Live: [Nationwide shortage of charge points threatens government targets for electric vehicles](https://www.nottinghampost.com/news/uk-world-news/nationwide-shortage-charge-points-threatens-2722521) *5 April 2019*
+* Cambridgeshire Live: [Lack of charge points is threat to government plans for zero emission vehicles](https://www.cambridge-news.co.uk/news/uk-world-news/lack-charge-points-threat-government-16079112) *5 April 2019*
+* Stoke Sentinel: [Nationwide shortage of charge points threatens government targets for electric vehicles](
+https://www.stokesentinel.co.uk/news/uk-world-news/nationwide-shortage-charge-points-threatens-2722521) *5 April 2019*
+* Teeside Live: [Lack of charge points is threat to government plans for zero emission vehicles](https://www.gazettelive.co.uk/news/uk-world-news/lack-charge-points-threat-government-16079112) *5 April 2019*
+* Kent Live: [Nationwide shortage of charge points threatens government targets for electric vehicles](https://www.kentlive.news/news/uk-world-news/nationwide-shortage-charge-points-threatens-2722521) *5 April 2019*
+* Derbyshire Live: [Nationwide shortage of charge points threatens government targets for electric vehicles](https://www.derbytelegraph.co.uk/news/uk-world-news/nationwide-shortage-charge-points-threatens-2722521) *5 April 2019*
 
 * Romford Recorder: [Electric car charger points lag behind number of eco-vehicles in Havering, figures show](https://www.romfordrecorder.co.uk/news/politics/havering-electric-cars-charger-points-1-5980917) *8 April 2019*
 
