@@ -19,6 +19,13 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * MKFM: [Milton Keynes revealed as having highest number of electric car charging stations in the UK](https://www.mkfm.com/news/local-news/milton-keynes-revealed-as-having-highest-number-of-electric-car-charging-stations-in-the-uk/) *5 April 2019*
 * Rochdale Online: [Rochdale one of 137 local authorities to have no more than 10 charging points for electric cars](https://www.rochdaleonline.co.uk/news-features/2/news-headlines/127100/rochdale-one-of-137-local-authorities-to-have-no-more-than-10-charging-points-for-electric-cars) *5 April 2019*
 * Stourbridge News: [Dudley falls short on electric car charging points](https://www.stourbridgenews.co.uk/news/17554684.dudley-falls-short-on-electric-car-charging-points/) *5 April 2019*
+* Chronicle Live: [Lack of charge points is threat to government plans for zero emission vehicles](https://www.chroniclelive.co.uk/news/uk-news/lack-charge-points-threat-government-16079112) *5 April 2019*
+* Leicestershire Live: [Nationwide shortage of charge points threatens government targets for electric vehicles](https://www.leicestermercury.co.uk/news/uk-world-news/nationwide-shortage-charge-points-threatens-2722521) *5 April 2019*
+* Stoke Sentinel: [853 motorists in North Staffordshire choose to drive an electric car - as the Government plans to phase out petrol and diesel](https://www.stokesentinel.co.uk/news/stoke-on-trent-news/853-motorists-north-staffordshire-choose-2722731) *5 April 2019*
+* York: The Press: [Electric vehicle numbers in York revealed - with 'hyper hub' charging on way](https://www.yorkpress.co.uk/news/17552160.electric-vehicle-numbers-in-york-revealed-with-hyper-hub-charging-on-way/) *5 April 2019*
+* Wrexham and Flintshire: The Leader Live: [Huge increase in electric and hybrid vehicles in Wrexham and Flintshire](https://www.leaderlive.co.uk/news/17552894.huge-increase-in-electric-and-hybrid-vehicles-in-wrexham-and-flintshire/) *5 April 2019*
+
+* Romford Recorder: [Electric car charger points lag behind number of eco-vehicles in Havering, figures show](https://www.romfordrecorder.co.uk/news/politics/havering-electric-cars-charger-points-1-5980917) *8 April 2019*
 
 The story was also used by the [BBC News Channel](https://www.youtube.com/watch?v=jNZPAQP4y2s&feature=youtu.be), BBC Radio 5 live, BBC Radio Norfolk, BBC Radio Lancashire, BBC Three Counties Radio and BBC Hereford & Worcester.
  
