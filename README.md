@@ -24,6 +24,13 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Stoke Sentinel: [853 motorists in North Staffordshire choose to drive an electric car - as the Government plans to phase out petrol and diesel](https://www.stokesentinel.co.uk/news/stoke-on-trent-news/853-motorists-north-staffordshire-choose-2722731) *5 April 2019*
 * York: The Press: [Electric vehicle numbers in York revealed - with 'hyper hub' charging on way](https://www.yorkpress.co.uk/news/17552160.electric-vehicle-numbers-in-york-revealed-with-hyper-hub-charging-on-way/) *5 April 2019*
 * Wrexham and Flintshire: The Leader Live: [Huge increase in electric and hybrid vehicles in Wrexham and Flintshire](https://www.leaderlive.co.uk/news/17552894.huge-increase-in-electric-and-hybrid-vehicles-in-wrexham-and-flintshire/) *5 April 2019*
+* KL.FM: [Is West Norfolk prepared for an electric car revolution?](https://www.klfm967.co.uk/news/klfm-news/2843909/is-west-norfolk-prepared-for-an-electric-car-revolution/) *5 April 2019*
+* The Scarborough News: [Ryedale has third longest average distance to electric car charging points in England](https://www.thescarboroughnews.co.uk/news/transport/ryedale-has-third-longest-average-distance-to-electric-car-charging-points-in-england-1-9695147) *5 April 2019*
+* Bob FM: [Report claims "Patchy" network of chargers is discouraging Hertfordshire's drivers from embracing electric cars](http://www.bobfm.co.uk/news/local-news/report-claims-patchy-network-of-chargers-is-discouraging-hertfordshires-drivers-from-embracing-electric-cars/) *5 April 2019*
+* Swindon Advertiser: [Thousands of electric cars in Swindon - but only 16 public charging points](https://www.swindonadvertiser.co.uk/news/17552949.thousands-of-electric-cars-in-swindon-but-only-16-public-charging-points/) *5 April 2019*
+* Bristol Live: [Nationwide shortage of charge points threatens government targets for electric vehicles](https://www.bristolpost.co.uk/news/uk-world-news/nationwide-shortage-charge-points-threatens-2722521) *5 April 2019*
+* Cornish Stuff: [Electric Car Revolution – Cornwall leading the way](https://cornishstuff.com/2019/04/05/electric-car-revolution-cornwall-leading-the-charge/) *5 April 2019*
+
 
 * Romford Recorder: [Electric car charger points lag behind number of eco-vehicles in Havering, figures show](https://www.romfordrecorder.co.uk/news/politics/havering-electric-cars-charger-points-1-5980917) *8 April 2019*
 
