@@ -42,6 +42,7 @@ https://www.stokesentinel.co.uk/news/uk-world-news/nationwide-shortage-charge-po
 * Derbyshire Live: [Nationwide shortage of charge points threatens government targets for electric vehicles](https://www.derbytelegraph.co.uk/news/uk-world-news/nationwide-shortage-charge-points-threatens-2722521) *5 April 2019*
 * Romford Recorder: [Electric car charger points lag behind number of eco-vehicles in Havering, figures show](https://www.romfordrecorder.co.uk/news/politics/havering-electric-cars-charger-points-1-5980917) *8 April 2019*
 * Lynn News: [E-car charging needs to be stepped up says LibDems](https://www.lynnnews.co.uk/news/e-car-charging-needs-to-be-stepped-up-says-libdems-9066638/) *9 April 2019*
+* Nantwich News: [Electric vehicles rise by 5,750% in Cheshire East with just 34 charging points](https://thenantwichnews.co.uk/2019/04/12/electric-vehicles-rise-by-5750-in-cheshire-east-with-just-34-charging-points/) *12 April 2019*
 
 The story was also used by the [BBC News Channel](https://www.youtube.com/watch?v=jNZPAQP4y2s&feature=youtu.be), BBC Radio 5 live, in a [blog by BBC Science, Environment & Rural Affairs Correspondent David Gregory-Kumar](https://www.bbc.co.uk/news/uk-england-47817880), BBC Radio Norfolk, BBC Radio Lancashire, BBC Three Counties Radio and BBC Hereford & Worcester.
  
