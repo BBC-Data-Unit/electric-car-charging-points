@@ -75,5 +75,7 @@ The story was also used by the [BBC News Channel](https://www.youtube.com/watch?
 
 * [RMarkdown notebook explaining how the distances were calculated](https://github.com/BBC-Data-Unit/electric-car-charging-points/blob/master/calculatingnearestpoints.Rmd)
 
+## Later reporting
 
+* The Guardian Money's article [‘Why did it take nine hours to go 130 miles in our new electric Porsche?’](https://www.theguardian.com/money/2020/nov/28/electric-cars-porsche-charging-network) describes problems with the charging network as "as one after another [charging stations] were either out of order, already had a queue or were the slow, older versions that would never be able to provide a fast enough charge in the time."
 
